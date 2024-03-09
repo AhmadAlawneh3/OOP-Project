@@ -1,0 +1,7 @@
+traine ahmad_ali_laith 20/5/2003 married 3 1/1/2020 --/--/---- cyber Ph.D False PSUT 50
+traine ahmad_khaled_mohammad 20/5/2003 single 0 5/6/2020 1/1/2022 cyber Diploma True PSUT 20
+workers laith_farhan_salman 14/2/2005 married 1 1/1/2020 --/--/---- AI Master False 6 15
+workers mohammad_anas_abed 1/10/2005 married 5 1/1/2020 --/--/---- AI BSc False 8 15
+workers laith_ali_ahmad 26/1/2005 married 1 1/1/2020 --/--/---- CS BSc False 7 20
+Regular_employees khaled_mohammad_ali 2/5/2003 married 3 1/1/2020 --/--/---- cyber Ph.D False 220 598.5 50 100 120300 0.05  50 20
+Regular_employees duna_ahmad_hamzh 6/6/2003 single 0 1/1/2020 --/--/---- CS Ph.D False 220 598.5 50 99 120300 0.02  50 15
